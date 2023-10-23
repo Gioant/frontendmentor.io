@@ -1,0 +1,12 @@
+[submodule "DevFinder"]
+	path = DevFinder
+	url = https://github.com/Gioant/DevFinder
+[submodule "Huddle-Landing-Page"]
+	path = Huddle-Landing-Page
+	url = https://github.com/Gioant/Huddle-Landing-Page
+[submodule "single-price-grid-component"]
+	path = single-price-grid-component
+	url = https://github.com/Gioant/single-price-grid-component
+[submodule "nft-preview-card"]
+	path = nft-preview-card
+	url = https://github.com/Gioant/nft-preview-card
