@@ -10,3 +10,6 @@
 [submodule "nft-preview-card"]
 	path = nft-preview-card
 	url = https://github.com/Gioant/nft-preview-card
+[submodule "product-card-component"]
+	path = product-card-component
+	url = https://github.com/Gioant/product-card-component
