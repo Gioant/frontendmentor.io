@@ -5,10 +5,6 @@ A list of solutions for challenges on [Frontend Mentor](https://www.frontendment
 ***Note***: To switch to desktop version, please click [here](./README.md)
 
 
-# Project Name 
-
-Your project's description and details optimized for mobile devices.
-
 ## Level 1: Beginner Challenges 
 
 | Project Name | Related Tags | Demo |
