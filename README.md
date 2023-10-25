@@ -6,15 +6,15 @@ A list of solutions for challenges on [Frontend Mentor](https://www.frontendment
 
 | Project Name                                                                                                 | Related Tags            | Preview                                                                                                           | Demo |
 | ------------------------------------------------------------------------------------------------------------ | :----------------------: | ------------------------------------------------- | ----- |
-| **[NFT Preview Card](https://github.com/Gioant/nft-preview-card/)** | HTML, CSS | <img src="https://github.com/Gioant/nft-preview-card/blob/main/design/desktop-preview.jpg" height="175px" width="auto"/>  | [Link](https://gioant.github.io/DevFinder/)|
-| **[Single Price Grid Component](https://github.com/Gioant/single-price-grid-component)** | HTML, CSS | <img src="https://github.com/Gioant/single-price-grid-component/blob/main/design/desktop-preview.jpg" height="175px" width="auto"/>  | [Link](https://gioant.github.io/single-price-grid-component/)|
+| **[NFT Preview Card](https://github.com/Gioant/nft-preview-card/)** | <ul><li>HTML</li><li>CSS</li></ul> | <img src="https://github.com/Gioant/nft-preview-card/blob/main/design/desktop-preview.jpg" height="175px" width="auto"/>  | [Link](https://gioant.github.io/DevFinder/)|
+| **[Single Price Grid Component](https://github.com/Gioant/single-price-grid-component)** | <ul><li>HTML</li><li>CSS</li></ul> | <img src="https://github.com/Gioant/single-price-grid-component/blob/main/design/desktop-preview.jpg" height="175px" width="auto"/>  | [Link](https://gioant.github.io/single-price-grid-component/)|
 
 ## Level 2: Junior Challenges
 
 | Project Name                                                                                                 | Related Tags            | Preview                                                                                                           | Demo |
 | ------------------------------------------------------------------------------------------------------------ | :----------------------: | ------------------------------------------------- | ----- |
-| **[DevFinder](https://github.com/Gioant/DevFinder/)** | HTML, Tailwind CSS, JS, API | <img src="https://github.com/Gioant/DevFinder/blob/main/design/preview.jpeg" height="175px" width="auto"/>  | [Link](https://gioant.github.io/DevFinder/)|
-| **[Huddle Landing Page](https://github.com/Gioant/Huddle-Landing-Page/)** | HTML, CSS, JS | <img src="https://github.com/Gioant/Huddle-Landing-Page/blob/main/design/desktop-preview.jpg" height="175px" width="auto"/>  | [Link](https://gioant.github.io/Huddle-Landing-Page/)|
+| **[DevFinder](https://github.com/Gioant/DevFinder/)** | <ul><li>HTML</li><li>Tailwind CSS</li><li>Javascript</li><li>Github API</li></ul> | <img src="https://github.com/Gioant/DevFinder/blob/main/design/preview.jpeg" height="175px" width="auto"/>  | [Link](https://gioant.github.io/DevFinder/)|
+| **[Huddle Landing Page](https://github.com/Gioant/Huddle-Landing-Page/)** | <ul><li>HTML</li><li>CSS</li><li>Javascript</li></ul> | <img src="https://github.com/Gioant/Huddle-Landing-Page/blob/main/design/desktop-preview.jpg" height="175px" width="auto"/>  | [Link](https://gioant.github.io/Huddle-Landing-Page/)|
 
 
 
