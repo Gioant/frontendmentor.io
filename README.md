@@ -1,6 +1,8 @@
-# Frontendmentor.io
+# Desktop Version
 
 A list of solutions for challenges on [Frontend Mentor](https://www.frontendmentor.io/)
+
+***Note***: For the best phone experience, please click on [mobile version](./readme(mobile).md)
 
 ## Level 1: Newbie Challenges
 
@@ -78,3 +80,4 @@ A list of solutions for challenges on [Frontend Mentor](https://www.frontendment
     </tr>
   </tbody>
 </table>
+
