@@ -41,7 +41,7 @@ A list of solutions for challenges on [Frontend Mentor](https://www.frontendment
   </tbody>
 </table>
 
-<h2>Level 2: Junior Challenges</h2>
+## Level 2: Junior Challenges
 
 <table>
   <thead>
@@ -77,6 +77,34 @@ A list of solutions for challenges on [Frontend Mentor](https://www.frontendment
       </td>
       <td><img src="https://github.com/Gioant/Huddle-Landing-Page/blob/main/design/desktop-preview.jpg" height="175px" width="auto" alt="Huddle Landing Page Preview" /></td>
       <td><a href="https://gioant.github.io/Huddle-Landing-Page/">Link</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+## Level 3: Intermediate Challenges
+
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Related Tags</th>
+      <th>Preview</th>
+      <th>Demo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong><a href="https://github.com/Gioant/easybank-landing-page">EasyBank Landing Page</a></strong></td>
+      <td>
+        <ul>
+          <li>HTML</li>
+          <li>Tailwind CSS</li>
+          <li>Javascript</li>
+        </ul>
+      </td>
+      <td><img src="https://github.com/Gioant/easybank-landing-page/blob/main/design/desktop-preview.jpg" height="175px" width="auto" alt="demo_pic" /></td>
+      <td><a href="https://gioant.github.io/easybank-landing-page/">Link</a></td>
     </tr>
   </tbody>
 </table>
