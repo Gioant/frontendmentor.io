@@ -13,3 +13,6 @@
 [submodule "product-card-component"]
 	path = product-card-component
 	url = https://github.com/Gioant/product-card-component
+[submodule "easybank-landing-page"]
+	path = easybank-landing-page
+	url = https://github.com/Gioant/easybank-landing-page
