@@ -25,7 +25,7 @@ A list of solutions for challenges on [Frontend Mentor](https://www.frontendment
         </ul>
       </td>
       <td><img src="https://github.com/Gioant/nft-preview-card/blob/main/design/desktop-preview.jpg" height="175px" width="auto" alt="NFT Preview Card Preview" /></td>
-      <td><a href="https://gioant.github.io/DevFinder/">Link</a></td>
+      <td><a href="https://gioant.github.io/nft-preview-card/">Link</a></td>
     </tr>
     <tr>
       <td><strong><a href="https://github.com/Gioant/single-price-grid-component/">Single Price Grid Component</a></strong></td>

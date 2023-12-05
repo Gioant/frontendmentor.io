@@ -20,7 +20,7 @@ A list of solutions for challenges on [Frontend Mentor](https://www.frontendment
       <tr>
         <td><a href="https://github.com/Gioant/nft-preview-card/">NFT Preview Card</a></td>
         <td><ul><li>HTML</li><li>CSS</li></ul></td>
-        <td><a href="https://gioant.github.io/DevFinder/">Link</a></td>
+        <td><a href="https://gioant.github.io/nft-preview-card/">Link</a></td>
       </tr>
       <tr>
         <td><a href="https://github.com/Gioant/single-price-grid-component">Single Price Grid Component</a></td>
